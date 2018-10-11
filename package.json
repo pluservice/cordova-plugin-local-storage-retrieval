@@ -1,0 +1,27 @@
+{
+  "name": "cordova-plugin-local-storage-retrieval",
+  "version": "0.2.15-dev",
+  "description": "Migrazione del local storage",
+  "cordova": {
+    "id": "cordova-plugin-local-storage-retrieval",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pluservice/cordova-plugin-local-storage-retrieval.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pluservice/cordova-plugin-local-storage-retrieval/issues"
+  },
+  "homepage": "https://github.com/pluservice/cordova-plugin-local-storage-retrieval#readme"
+}
